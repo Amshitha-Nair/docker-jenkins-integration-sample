@@ -1,0 +1,28 @@
+.navbar-brand{
+ 	font-family: 'Times New Roman', serif;
+    font-size: xx-large;
+ 	margin: 0px;
+ 	color: black;
+    text-align: center;
+}
+.navbar{
+ 	background-color: rgb(241, 121, 112);
+     align-items: center;
+}
+body{
+    background-image: url(write.jpg);
+    margin: 0px;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-size: x-large;
+}
+div.card{
+    text-align: center;
+    font-size: larger;
+}
